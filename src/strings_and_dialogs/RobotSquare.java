@@ -28,7 +28,7 @@ name.penDown();
     		
 
         //         4. Turn the robot 90 degrees to the right (90 degrees)
-    name.turn(10);
+    name.turn(220);
     					
     				
   }   	
